@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+src/__init__.py
+src/math.py
+src/meu_projeto.egg-info/PKG-INFO
+src/meu_projeto.egg-info/SOURCES.txt
+src/meu_projeto.egg-info/dependency_links.txt
+src/meu_projeto.egg-info/top_level.txt
+tests/test_operations.py
