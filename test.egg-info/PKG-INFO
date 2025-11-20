@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: test
+Version: 0.1
+Author: Cll-The-Saint
+Requires-Dist: pandas
+Requires-Dist: pytest
